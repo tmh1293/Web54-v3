@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "postId":"1",
+        "content":"Hello",
+        "createdBy":"Hiếu"
+    },
+    {
+        "id":"2",
+        "postId":"1",
+        "content":"Hello 2",
+        "createdBy":"Hiếu"
+    },
+    {
+        "id":"3",
+        "postId":"2",
+        "content":"Hello",
+        "createdBy":"Hiếu"
+    },
+    {
+        "id":"4",
+        "postId":"2",
+        "content":"Hello 2",
+        "createdBy":"Hiếu"
+    },
+    {
+        "id":"5",
+        "postId":"3",
+        "content":"Hello",
+        "createdBy":"Hiếu"
+    }
+]
